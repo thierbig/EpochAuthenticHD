@@ -2,34 +2,63 @@
 
 A carefully selected **Epoch Graphics Collection** with music, essential HD, subtle world upgrades, and optional Vulkan support via DXVK 2.7.1 for improved graphics performance.
 
+# Epoch / WotLK MPQ Setup
+
 ---
 
-## 1. Default Mod Setup
+## Core Game Files  
+⚠️ **Do not change or delete these!**
 
-Download repackaged here
+- **COMMON.MPQ**  
+- **COMMON-2.MPQ**  
+- **EXPANSION-2.MPQ**  
+- **LICHKING.MPQ**  
+- **PATCH.MPQ**  
+- **PATCH-2.MPQ**  
+- **PATCH-3.MPQ**  
+- **PATCH-A.MPQ**  
+- **PATCH-B.MPQ**  
+- **PATCH-Y.MPQ**  
+- **PATCH-Z.MPQ**
 
-### Characters/ Textures / Icons
+---
 
-- **patch-6.mpq** (orig: patch-8) — Upscaled clothing & armor  
-  👤 *sh1tdev* — [Download](https://www.wowmodding.net/files/file/199-vanilla-tbc-and-wotlk-clothing-textures-upscaled-for-335/)  
-- **patch-C.mpq** patch-C.MPQ : HD Character models from WotlK HD, maintained by Loriendal. Renamed to patch-C from patch-A to not overwrite epoch patching conventions. Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Renamed patch-enUS-C.MPQ from WotlK HD to patch-D. Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built) NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)
-- **Patch-I.mpq** — Upscaled spell & item icons *(added)*  
-  👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
-- **Patch-M.mpq** — Upscaled maps at 4K *(added)*  
-  👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
-- **Patch-F.MPQ** (orig: patch-D) — CreatureDisplayInfoExtra for NPCs  
-  👤 *Bset* — [GitHub](https://github.com/TVBrowntown/epochHD)  
+## Custom MPQs Added
 
-###  Environment / World
-- **patch-?.mpq** — Upscaled trees + fixes  
-  👤 *OdysseyMods / Jolander* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/881)  
-Patch -r ?
-- **patch-W.MPQ** — Clear view fog reduction  
-  👤 *OdysseyMods* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/881)  
+- **PATCH-4.MPQ** — Vanilla NPC texture upscale 2x *(unknown modder)*  
+- **PATCH-5.MPQ** — Vanilla armor items texture upscale 2x *(unknown modder)*  
+- **PATCH-6.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-D)* **(new)**  
+- **PATCH-7.MPQ** — Faithful Upscaled Textures Epoch – Creatures *(Vish patch-O)*  
+- **PATCH-C.MPQ** — **HD Character Models from WotLK HD**, maintained by *Loriendal*.  
+- **PATCH-F.MPQ** — Better Trees *(OdysseyMods)*  
+- **PATCH-R.MPQ** — New Skyboxes from WotLK HD DBC *(Bset)*  
+- **PATCH-S.MPQ** — New Skyboxes from WotLK HD *(Bset)*  
+- **PATCH-W.MPQ** — Cataclysm Water *(unknown modder)*  
+- **PATCH-X.MPQ** — Music  
+- **PATCH-I.MPQ** — Faithful Upscaled Textures Epoch – Spells/Items Icons *(Vish patch-I)*  
+- **PATCH-M.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)*  
 
-###  Misc
-- **patch-X.mpq** — Old World music rescore bridge  
-  👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
+---
+
+## Useful Links
+
+- [epochHD GitHub (Bset work)](https://github.com/TVBrowntown/epochHD)  
+- [NexusMods – Faithful Upscaled Textures](https://www.nexusmods.com/worldofwarcraft/mods/884?tab=posts)  
+- [NexusMods – Better Trees](https://www.nexusmods.com/worldofwarcraft/mods/881?tab=files)  
+- [NexusMods – Push Fog Only](https://www.nexusmods.com/worldofwarcraft/mods/850?tab=files)  
+
+---
+
+## Credits & Thanks  
+
+- **Bset**  
+- **Vish**  
+- **Jolander**  
+- **Loriendal**  
+- **OdysseyMods**  
+- Various *unknown modders*  
+- All players who test, report bugs, and contribute
+
 
 **Summary:** This repack enhances **authentic Epoch visuals** with faithful upscales (armor, UI, maps, icons), subtle environment boosts (trees, skyboxes, fog clarity), while keeping the original game's aesthetic.
 
