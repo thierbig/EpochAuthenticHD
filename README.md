@@ -12,7 +12,7 @@ Download repackaged here
 
 - **patch-6.mpq** (orig: patch-8) — Upscaled clothing & armor  
   👤 *sh1tdev* — [Download](https://www.wowmodding.net/files/file/199-vanilla-tbc-and-wotlk-clothing-textures-upscaled-for-335/)  
-- **patch-C.mpq** NEW
+- **patch-C.mpq** patch-C.MPQ : HD Character models from WotlK HD, maintained by Loriendal. Renamed to patch-C from patch-A to not overwrite epoch patching conventions. Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Renamed patch-enUS-C.MPQ from WotlK HD to patch-D. Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built) NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)
 - **Patch-I.mpq** — Upscaled spell & item icons *(added)*  
   👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
 - **Patch-M.mpq** — Upscaled maps at 4K *(added)*  
