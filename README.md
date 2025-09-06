@@ -12,28 +12,18 @@ Download repackaged here
 
 - **patch-6.mpq** (orig: patch-8) — Upscaled clothing & armor  
   👤 *sh1tdev* — [Download](https://www.wowmodding.net/files/file/199-vanilla-tbc-and-wotlk-clothing-textures-upscaled-for-335/)  
-- **patch-C.mpq** (orig: patch-D) — Upscaled world/UI textures  
-  👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
+- **patch-C.mpq** NEW
 - **Patch-I.mpq** — Upscaled spell & item icons *(added)*  
   👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
 - **Patch-M.mpq** — Upscaled maps at 4K *(added)*  
   👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
-- **patch-D.mpq** (orig: patch-O) — Creatures & mounts  
-  👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
-- **patch-E.mpq** (orig: patch-C) — HD characters  
-  👤 *Loriendal* / repacked by *Bset* — [GitHub](https://github.com/TVBrowntown/epochHD)  
 - **Patch-F.MPQ** (orig: patch-D) — CreatureDisplayInfoExtra for NPCs  
-  👤 *Bset* — [GitHub](https://github.com/TVBrowntown/epochHD)  
-- **patch-G.mpq** (orig: patch-E) — BakedNpcTextures for Epoch NPCs  
   👤 *Bset* — [GitHub](https://github.com/TVBrowntown/epochHD)  
 
 ###  Environment / World
-- **patch-T.mpq** — Upscaled trees + fixes  
+- **patch-?.mpq** — Upscaled trees + fixes  
   👤 *OdysseyMods / Jolander* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/881)  
-- **patch-R.mpq** (orig: patch-enUS-S) — Skyboxes  
-  👤 *Bset* — [GitHub](https://github.com/TVBrowntown/epochHD)  
-- **patch-S.MPQ** (orig: patch-X) — Alternate skyboxes  
-  👤 *Bset* — [GitHub](https://github.com/TVBrowntown/epochHD)  
+Patch -r ?
 - **patch-W.MPQ** — Clear view fog reduction  
   👤 *OdysseyMods* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/881)  
 
