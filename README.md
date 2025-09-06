@@ -8,7 +8,8 @@ A carefully selected **Epoch Graphics Collection** with music, essential HD, sub
 
 Download repackaged here
 
-###  Faithful Upscales
+### Characters/ Textures / Icons
+
 - **patch-6.mpq** (orig: patch-8) — Upscaled clothing & armor  
   👤 *sh1tdev* — [Download](https://www.wowmodding.net/files/file/199-vanilla-tbc-and-wotlk-clothing-textures-upscaled-for-335/)  
 - **patch-C.mpq** (orig: patch-D) — Upscaled world/UI textures  
@@ -17,8 +18,6 @@ Download repackaged here
   👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
 - **Patch-M.mpq** — Upscaled maps at 4K *(added)*  
   👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
-
-###  Bset’s Epoch HD
 - **patch-D.mpq** (orig: patch-O) — Creatures & mounts  
   👤 *Vish* — [Download](https://www.nexusmods.com/worldofwarcraft/mods/884)  
 - **patch-E.mpq** (orig: patch-C) — HD characters  
