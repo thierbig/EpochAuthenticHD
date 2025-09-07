@@ -90,7 +90,7 @@ Improve Direct3D rendering through Vulkan translations.
 
 
 4. **Enable for NVIDIA GPUs**:  
-   Follow this **video demo (GIF)**[Gif](https://i.imgur.com/zbFE6ZM.gif) for setting the device override or preferences for NVIDIA GPUs.  
+   Follow this **video demo (GIF)** ![Alt Text](https://i.imgur.com/zbFE6ZM.gif) for setting the device override or preferences for NVIDIA GPUs.  
 
 ---
 
