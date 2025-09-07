@@ -17,7 +17,7 @@ Extract the .mpq into the Data folder and the Icons into the Interface folder.
 
 - **COMMON.MPQ**  
 - **COMMON-2.MPQ**  
-- **EXPANSION-2.MPQ**  
+- **EXPANSION.MPQ**  
 - **LICHKING.MPQ**  
 - **PATCH.MPQ**  
 - **PATCH-2.MPQ**  
