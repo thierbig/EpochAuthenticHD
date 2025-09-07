@@ -8,6 +8,8 @@ Download here: [My Google Drive](https://drive.google.com/file/d/1AeRMEJKYZdVHjP
 
 In the epoch_live (WoW folder) folder, extract the .mpq files into the Data folder and the Icons folder into the Interface folder.
 
+WARNING: If your PC isn't that strong, do not use extract the HD Icons!
+
 ## 1. Epoch / WotLK MPQ Setup (Just for reading information)
 
 ---
