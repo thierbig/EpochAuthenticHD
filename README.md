@@ -6,7 +6,9 @@ Keep the authentic Classic WoW look, just a little more crisper!
 
 Download here: 
 
-# Epoch / WotLK MPQ Setup
+Extract the .mpq into the Data folder and the Icons into the Interface folder.
+
+## 1. Epoch / WotLK MPQ Setup
 
 ---
 
