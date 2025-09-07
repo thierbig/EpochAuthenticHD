@@ -10,6 +10,8 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the Data fold
 
 **WARNING: If your PC isn't that strong ore feel you want more FPS, do not use/extract the HD Spells/Items Icons!**
 
+**If you want OLD Original Vanilla Character Models for your own character, delete PATCH-C**
+
 ## 1. Epoch / WotLK MPQ Setup (Just for reading information)
 
 ---
