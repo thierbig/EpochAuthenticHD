@@ -4,9 +4,9 @@ A carefully selected **Epoch Graphics Collection** with essential upscaling patc
 
 Keep the authentic Classic WoW look, just a little more crisper!
 
-Download here: 
+Download here: [My Google Drive](https://drive.google.com/file/d/1AeRMEJKYZdVHjPQx_BbaU1jkb2AzlpIb/view?usp=sharing)
 
-Extract the .mpq into the Data folder and the Icons into the Interface folder.
+In the epoch_live (WoW folder) folder, extract the .mpq files into the Data folder and the Icons folder into the Interface folder.
 
 ## 1. Epoch / WotLK MPQ Setup (Just for reading information)
 
