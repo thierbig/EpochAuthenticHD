@@ -1,6 +1,10 @@
 #  Pstar Authentic Repack – Faithful / Curated, Enhanced + DXVK
 
-A carefully selected **Epoch Graphics Collection** with music, essential HD, subtle world upgrades, and optional Vulkan support via DXVK 2.7.1 for improved graphics performance.
+A carefully selected **Epoch Graphics Collection** with essential HD packs, subtle world upgrades, and Vulkan support via DXVK 2.7.1 for improved graphics performance.
+
+Keep the authentic Classic WoW look, just a little more crisper!
+
+Download here: 
 
 # Epoch / WotLK MPQ Setup
 
@@ -27,14 +31,14 @@ A carefully selected **Epoch Graphics Collection** with music, essential HD, sub
 
 - **PATCH-4.MPQ** — Vanilla NPC texture upscale 2x *(unknown modder)*  
 - **PATCH-5.MPQ** — Vanilla armor items texture upscale 2x *(unknown modder)*  
-- **PATCH-6.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-D)* **(new)**  
+- **PATCH-6.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-D)*  
 - **PATCH-7.MPQ** — Faithful Upscaled Textures Epoch – Creatures *(Vish patch-O)*  
 - **PATCH-C.MPQ** — **HD Character Models from WotLK HD**, maintained by *Loriendal*.  
 - **PATCH-F.MPQ** — Better Trees *(OdysseyMods)*  
 - **PATCH-R.MPQ** — New Skyboxes from WotLK HD DBC *(Bset)*  
 - **PATCH-S.MPQ** — New Skyboxes from WotLK HD *(Bset)*  
 - **PATCH-W.MPQ** — Cataclysm Water *(unknown modder)*  
-- **PATCH-X.MPQ** — Music  
+- **PATCH-X.MPQ** — Epoch - Old World Music Rescore Compatibility (Vish patchx)*
 - **PATCH-I.MPQ** — Faithful Upscaled Textures Epoch – Spells/Items Icons *(Vish patch-I)*  
 - **PATCH-M.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)*  
 
