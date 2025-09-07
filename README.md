@@ -40,7 +40,7 @@ Extract the .mpq into the Data folder and the Icons into the Interface folder.
 - **PATCH-R.MPQ** — New Skyboxes from WotLK HD DBC *(Bset)*  
 - **PATCH-S.MPQ** — New Skyboxes from WotLK HD *(Bset)*  
 - **PATCH-W.MPQ** — Cataclysm Water *(unknown modder)*  
-- **PATCH-X.MPQ** — Epoch - Old World Music Rescore Compatibility (Vish patchx)*
+- **PATCH-X.MPQ** — Epoch - Old World Music Rescore Compatibility *(Vish patch-X)*
 - **PATCH-I.MPQ** — Faithful Upscaled Textures Epoch – Spells/Items Icons *(Vish patch-I)*  
 - **PATCH-M.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)*  
 
