@@ -1,6 +1,6 @@
 #  Pstar Authentic Repack – Faithful / Curated, Enhanced + DXVK
 
-A carefully selected **Epoch Graphics Collection** with essential HD packs, subtle world upgrades, and Vulkan support via DXVK 2.7.1 for improved graphics performance.
+A carefully selected **Epoch Graphics Collection** with essential upscaling patches, subtle world upgrades, and Vulkan support via DXVK 2.7.1 for improved graphics performance.
 
 Keep the authentic Classic WoW look, just a little more crisper!
 
@@ -8,7 +8,7 @@ Download here:
 
 Extract the .mpq into the Data folder and the Icons into the Interface folder.
 
-## 1. Epoch / WotLK MPQ Setup
+## 1. Epoch / WotLK MPQ Setup (Just for reading information)
 
 ---
 
