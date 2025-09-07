@@ -78,8 +78,7 @@ Improve Direct3D rendering through Vulkan translations.
 
 1. **Download DXVK 2.7.1**:  
    Download from GitHub:  
-   `https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz`  
-   :contentReference[oaicite:0]{index=0}
+   `https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz`
 
 2. **Extract the Archive**:  
    Use 7-Zip or a similar tool to extract the `.tar.gz`.
