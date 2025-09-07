@@ -80,7 +80,7 @@ Improve Direct3D rendering through Vulkan translations.
 
 1. **Download DXVK 2.7.1**:  
    Download from GitHub:  
-   `https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz`
+   [dxvk-2.7.1](https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz)
 
 2. **Extract the Archive**:  
    Use 7-Zip or a similar tool to extract the `.tar.gz`.
@@ -90,7 +90,7 @@ Improve Direct3D rendering through Vulkan translations.
 
 
 4. **Enable for NVIDIA GPUs**:  
-   Follow this **video demo (GIF)**[Gif](https://cdn.discordapp.com/attachments/1411180795405799549/1413087551970873405/Recording_2025-09-04_110412.mp4?ex=68bd4ad6&is=68bbf956&hm=c006b763c52119ba3f3309dfb510c3dc34b54bfd83ad1bea99240919e56110c6&) for setting the device override or preferences for NVIDIA GPUs.  
+   Follow this **video demo (GIF)**[Gif](https://i.imgur.com/zbFE6ZM.gif) for setting the device override or preferences for NVIDIA GPUs.  
 
 ---
 
