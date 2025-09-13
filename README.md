@@ -27,7 +27,8 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the Data fold
 - **PATCH-2.MPQ**  
 - **PATCH-3.MPQ**  
 - **PATCH-A.MPQ**  
-- **PATCH-B.MPQ**  
+- **PATCH-B.MPQ**
+- **PATCH-C.MPQ**
 - **PATCH-Y.MPQ**  
 - **PATCH-Z.MPQ**
 
