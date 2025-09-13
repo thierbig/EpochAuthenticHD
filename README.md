@@ -4,7 +4,7 @@ A carefully selected **Epoch Graphics Collection** with essential upscaling patc
 
 Keep the authentic Classic WoW look, just a little more crisper! Also adds many uniquely voice-acted NPCs and updated player sounds. Refreshes zone music/ambience. Blends better for veteran players.
 
-Updated 13/09/2025
+**Updated 13/09/2025**
 
 Download here: [My Google Drive](https://drive.google.com/file/d/1Xyr9LUsFDnzyFCA9SBtxlMzOauZPvqAk/view?usp=sharing)
 
