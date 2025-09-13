@@ -2,15 +2,17 @@
 
 A carefully selected **Epoch Graphics Collection** with essential upscaling patches, subtle world upgrades, and Vulkan support via DXVK 2.7.1 for improved graphics performance.
 
-Keep the authentic Classic WoW look, just a little more crisper!
+Keep the authentic Classic WoW look, just a little more crisper! Also adds many uniquely voice-acted NPCs and updated player sounds. Refreshes zone music/ambience. Blends better for veteran players.
 
-Download here: [My Google Drive](https://drive.google.com/file/d/1AeRMEJKYZdVHjPQx_BbaU1jkb2AzlpIb/view?usp=sharing)
+Updated 13/09/2025
 
-In the epoch_live (WoW folder) folder, extract the .mpq files into the Data folder and the Icons folder into the Interface folder.
+Download here: [My Google Drive](https://drive.google.com/file/d/1Xyr9LUsFDnzyFCA9SBtxlMzOauZPvqAk/view?usp=sharing)
 
-**WARNING: If your PC isn't powerful or feel you want more FPS, do not use/extract the HD Spells/Items Icons!**
+In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` folder and the `Icons` folder into the Interface folder.
 
-**If you want OLD Original Vanilla Character Models for your own character, delete PATCH-C**
+**WARNING: If your PC isn't powerful or feel you want more FPS, do not extract the HD Spells/Items `Icons`!**
+
+**If you want OLD Original Vanilla Character Models for your own character, delete PATCH-D**
 
 ## 1. Epoch / WotLK MPQ Setup (Just for reading information)
 
@@ -38,8 +40,8 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the Data fold
 
 - **PATCH-4.MPQ** — Vanilla NPC texture upscale 2x *(unknown modder)*  
 - **PATCH-5.MPQ** — Vanilla armor items texture upscale 2x *(unknown modder)*  
-- **PATCH-D.MPQ** — **HD Character Models from WotLK HD**, maintained by *Loriendal*.  
-- **PATCH-E.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-K)*  
+- **PATCH-D.MPQ** — **HD Character Models from WotLK HD**, maintained by *Loriendal*, then updated by *Bset* for Epoch *(Bset Patch-E)*.  
+- **PATCH-E.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-K)*
 - **PATCH-F.MPQ** — Better Trees *(OdysseyMods)*  
 - **PATCH-M.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)*  
 - **PATCH-R.MPQ** — New Skyboxes from WotLK HD DBC *(Bset)*  
@@ -51,7 +53,7 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the Data fold
 ## Useful Links
 
 - [epochHD GitHub (Bset work)](https://github.com/TVBrowntown/epochHD)  
-- [NexusMods – Faithful Upscaled Textures](https://www.nexusmods.com/worldofwarcraft/mods/884?tab=posts)  
+- [NexusMods – Faithful Upscaled Textures](https://mega.nz/folder/7bhHQLyC#th3RT29KOQk9SxhZMhLHEQ)  
 - [NexusMods – Better Trees](https://www.nexusmods.com/worldofwarcraft/mods/881?tab=files)  
 - [NexusMods – Push Fog Only](https://www.nexusmods.com/worldofwarcraft/mods/850?tab=files)  
 
@@ -95,7 +97,7 @@ Improve Direct3D rendering through Vulkan translations.
 
 ---
 
-## 3. Run graphical macros in games (you can also use this addon for almost the same result - [VanillaGraphicBoost](https://github.com/fleekx/VanillaGraphicBoost/):
+## 3. Run graphical macros in games (you can also use this addon for almost the same result - [VanillaGraphicBoost](https://github.com/fleekx/VanillaGraphicBoost/) and skip below)
 
 Macro 1 :
 ```
