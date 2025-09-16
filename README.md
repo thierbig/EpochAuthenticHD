@@ -179,3 +179,7 @@ SET gxTextureCacheSize "512"
 SET objectFade "0"
 SET screenshotQuality "10"
 ```
+
+<img width="2557" height="1438" alt="image" src="https://github.com/user-attachments/assets/a9d97eba-5e3a-4c67-85af-c097ecee96b6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50ff72da-16e3-4a19-bbb7-488d414dfe2b" />
+<img width="1713" height="877" alt="image" src="https://github.com/user-attachments/assets/cb1cfe76-331a-47bf-8b6c-a978c3a8a65e" />
