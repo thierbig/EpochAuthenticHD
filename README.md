@@ -1,4 +1,4 @@
-#  Pstar Authentic Repack – Faithful / Curated, Enhanced + DXVK
+# Authentic HD – Faithful / Curated, Enhanced + DXVK
 
 A carefully selected **Epoch Graphics Collection** with essential upscaling patches, subtle world upgrades, and Vulkan support via DXVK 2.7.1 for improved graphics performance.
 
