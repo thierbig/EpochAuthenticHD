@@ -4,9 +4,9 @@ A carefully selected **Epoch Graphics Collection** with essential upscaling patc
 
 Keep the authentic Classic WoW look, just a little more crisper! Also adds many uniquely voice-acted NPCs and updated player sounds. Refreshes zone music/ambience. Blends better for veteran players.
 
-**UPDATED 13/09/2025**
+**UPDATED 06/10/2025**
 
-Download here: [My Google Drive](https://drive.google.com/file/d/1Xyr9LUsFDnzyFCA9SBtxlMzOauZPvqAk/view?usp=sharing)
+Download here: [My Google Drive](https://drive.google.com/file/d/1CNeaQse0Bg8X88r-mOzUmOZlhzVwyb70/view?usp=sharing)
 
 In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` folder and the `Icons` folder into the Interface folder.
 
