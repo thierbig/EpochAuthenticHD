@@ -1,10 +1,14 @@
 # Authentic HD – Faithful / Curated, Enhanced + DXVK
 
+> **Works with Project Epoch Reborn.** This collection is kept up to date against the current Reborn client.
+
 A carefully selected **Epoch Graphics Collection** with essential upscaling patches, subtle world upgrades, and Vulkan support via DXVK 2.7.1 for improved graphics performance.
 
 Keep the authentic Classic WoW look, just a little more crisper! Also adds many uniquely voice-acted NPCs and updated player sounds. Refreshes zone music/ambience. Blends better for veteran players.
 
-**UPDATED 06/10/2025**
+**UPDATED 11/08/2026**
+
+> ⚠️ **Letters changed in this update.** Epoch now ships its own **PATCH-D** and **PATCH-M**, so the collection was moved up a letter to get out of the way: old **D → E**, old **E → F**, old **F → G**, old **M → N**. If you are updating from an older version, **delete the old PATCH-D, PATCH-E, PATCH-F and PATCH-M from this collection first**, then extract the new files. PATCH-R, PATCH-W and PATCH-X are unchanged.
 
 Download here: [My Google Drive](https://drive.google.com/file/d/1CNeaQse0Bg8X88r-mOzUmOZlhzVwyb70/view?usp=sharing)
 
@@ -12,14 +16,14 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` fo
 
 **WARNING: If your PC isn't powerful or feel you want more FPS, do not extract the HD Spells/Items `Icons`!**
 
-**If you want OLD Original Vanilla Character Models for your own character, delete PATCH-D**
+**If you want OLD Original Vanilla Character Models for your own character, delete PATCH-E**
 
 ## 1. Epoch / WotLK MPQ Setup (Just for reading information)
 
 ---
 
 ## Core Game Files  
-⚠️ **Do not change or delete these!**
+⚠️ **Do not change or delete these!** These are shipped by the game and kept updated by the launcher — if you overwrite one, the launcher will either re-download it or you will break the client.
 
 - **COMMON.MPQ**  
 - **COMMON-2.MPQ**  
@@ -31,8 +35,10 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` fo
 - **PATCH-A.MPQ**  
 - **PATCH-B.MPQ**
 - **PATCH-C.MPQ**
+- **PATCH-D.MPQ** — Epoch's own UI patch (custom FrameXML/GlueXML: GM tickets, raid browser, spell scaling, character select). **Not** the old HD character models — that is PATCH-E now.
+- **PATCH-M.MPQ** — shipped by Epoch
 - **PATCH-Y.MPQ**  
-- **PATCH-Z.MPQ**
+- **PATCH-Z.MPQ** *(if present)*
 
 ---
 
@@ -40,13 +46,30 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` fo
 
 - **PATCH-4.MPQ** — Vanilla NPC texture upscale 2x *(unknown modder)*  
 - **PATCH-5.MPQ** — Vanilla armor items texture upscale 2x *(unknown modder)*  
-- **PATCH-D.MPQ** — **HD Character Models from WotLK HD**, maintained by *Loriendal*, then updated by *Bset* for Epoch *(Bset Patch-E)*.  
-- **PATCH-E.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-K)*
-- **PATCH-F.MPQ** — Better Trees *(OdysseyMods)*  
-- **PATCH-M.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)*  
+- **PATCH-E.MPQ** — **HD Character Models from WotLK HD**, maintained by *Loriendal*, then updated by *Bset* for Epoch *(Bset Patch-E)*. *(was PATCH-D)*
+- **PATCH-F.MPQ** — Faithful Upscaled Textures Epoch *(Vish patch-K)* *(was PATCH-E)*
+- **PATCH-G.MPQ** — Better Trees *(OdysseyMods)* *(was PATCH-F)*
+- **PATCH-N.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)* *(was PATCH-M)*
 - **PATCH-R.MPQ** — New Skyboxes from WotLK HD DBC *(Bset)*  
 - **PATCH-W.MPQ** — Cataclysm Water *(unknown modder)*
 - **PATCH-X.MPQ** — Enhanced Sounds *(Vish patch-X)*
+
+---
+
+## Load Order & Naming Rules
+
+The client loads `patch-<one character>.MPQ` — numbers first (`patch-2` … `patch-9`), then letters (`patch-A` … `patch-Z`). **Later letters win.** So the order here is:
+
+`patch` → `2` → `3` → `4` → `5` → `A` → `B` → `C` → `D` → `E` → `F` → `G` → `M` → `N` → `R` → `W` → `X` → `Y`
+
+Two things worth knowing:
+
+- **Only one character after the dash.** A file named `patch-D-2.mpq` is **silently ignored** — the client never loads it and you get no error, just no changes in game. Always use a single free letter.
+- **Overriding is per file, not per patch.** A later patch only replaces the individual files it actually contains; everything else from the earlier patch still loads. Nothing is deleted.
+
+That is why the letters moved: with Epoch shipping its own **PATCH-D**, dropping the old HD character models on top of it would have replaced Epoch's custom UI files and broken the interface. Moving to **PATCH-E** leaves Epoch's patch intact and still puts the HD models ahead of the base character textures.
+
+Two known, intended overlaps: **PATCH-E** replaces some character textures and character DBCs from Epoch's PATCH-A/PATCH-C (that is the point of it — but if a client update changes character customisation, wait for the pack to be updated before reporting bugs), and Epoch's **PATCH-Y** wins a small number of world map textures over **PATCH-N**, since Epoch's own zone maps should take priority.
 
 ---
 
@@ -88,11 +111,11 @@ Improve Direct3D rendering through Vulkan translations.
    Use 7-Zip or a similar tool to extract the `.tar.gz`.
 
 3. **Copy Required DLLs**:  
-   Navigate to `x32/` folder, and copy `d3d9.dll`  into the folder containing `Ascension.exe` (your game executable).  
+   Navigate to `x32/` folder, and copy `d3d9.dll`  into the folder containing `Wow.exe` (your game executable).  
 
 
 4. **Enable for NVIDIA GPUs**:  
-   Follow this **video demo (GIF)** for setting Ascension.exe highest potential graphics for NVIDIA GPUs.  
+   Follow this **video demo (GIF)** for setting Wow.exe highest potential graphics for NVIDIA GPUs.  
    ![Alt Text](https://i.imgur.com/zbFE6ZM.gif) 
 
 ---
