@@ -198,4 +198,6 @@ SET screenshotQuality "10"
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50ff72da-16e3-4a19-bbb7-488d414dfe2b" />
 <img width="1713" height="877" alt="image" src="https://github.com/user-attachments/assets/cb1cfe76-331a-47bf-8b6c-a978c3a8a65e" />
 <img width="1492" height="1051" alt="image" src="https://github.com/user-attachments/assets/c935cd51-03f2-47f8-be49-e50de31d882e" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/45712dcb-d219-448b-9f9a-40fd745be2a4" />
+
 
