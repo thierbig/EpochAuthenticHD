@@ -8,7 +8,7 @@ Keep the authentic Classic WoW look, just a little more crisper! Also adds many 
 
 **UPDATED 11/08/2026**
 
-> ⚠️ **Letters changed in this update.** Epoch now ships its own **PATCH-D** and **PATCH-M**, so the collection was moved up a letter to get out of the way: old **D → E**, old **E → F**, old **F → G**, old **M → N**. If you are updating from an older version, **delete the old PATCH-D, PATCH-E, PATCH-F and PATCH-M from this collection first**, then extract the new files. PATCH-R, PATCH-W and PATCH-X are unchanged.
+> ⚠️ **Letters changed in this update.** Epoch now ships its own **PATCH-D** and **PATCH-M**, so the collection was moved up a letter to get out of the way: old **D → E**, old **E → F**, old **F → G**, old **M → N**.
 
 Download here: [My Google Drive](https://drive.google.com/file/d/1MGldaWHOBBe_v-Q70NERQHr0HiSQ3USe/view?usp=sharing)
 
@@ -197,3 +197,5 @@ SET screenshotQuality "10"
 <img width="2557" height="1438" alt="image" src="https://github.com/user-attachments/assets/a9d97eba-5e3a-4c67-85af-c097ecee96b6" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50ff72da-16e3-4a19-bbb7-488d414dfe2b" />
 <img width="1713" height="877" alt="image" src="https://github.com/user-attachments/assets/cb1cfe76-331a-47bf-8b6c-a978c3a8a65e" />
+<img width="1492" height="1051" alt="image" src="https://github.com/user-attachments/assets/c935cd51-03f2-47f8-be49-e50de31d882e" />
+
