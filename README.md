@@ -62,15 +62,6 @@ The client loads `patch-<one character>.MPQ` — numbers first (`patch-2` … `p
 
 `patch` → `2` → `3` → `4` → `5` → `A` → `B` → `C` → `D` → `E` → `F` → `G` → `M` → `N` → `R` → `W` → `X` → `Y`
 
-Two things worth knowing:
-
-- **Only one character after the dash.** A file named `patch-D-2.mpq` is **silently ignored** — the client never loads it and you get no error, just no changes in game. Always use a single free letter.
-- **Overriding is per file, not per patch.** A later patch only replaces the individual files it actually contains; everything else from the earlier patch still loads. Nothing is deleted.
-
-That is why the letters moved: with Epoch shipping its own **PATCH-D**, dropping the old HD character models on top of it would have replaced Epoch's custom UI files and broken the interface. Moving to **PATCH-E** leaves Epoch's patch intact and still puts the HD models ahead of the base character textures.
-
-Two known, intended overlaps: **PATCH-E** replaces some character textures and character DBCs from Epoch's PATCH-A/PATCH-C (that is the point of it — but if a client update changes character customisation, wait for the pack to be updated before reporting bugs), and Epoch's **PATCH-Y** wins a small number of world map textures over **PATCH-N**, since Epoch's own zone maps should take priority.
-
 ---
 
 ## Useful Links
