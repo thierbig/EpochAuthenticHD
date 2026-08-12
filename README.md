@@ -10,7 +10,7 @@ Keep the authentic Classic WoW look, just a little more crisper! Also adds many 
 
 > ⚠️ **Letters changed in this update.** Epoch now ships its own **PATCH-D** and **PATCH-M**, so the collection was moved up a letter to get out of the way: old **D → E**, old **E → F**, old **F → G**, old **M → N**. If you are updating from an older version, **delete the old PATCH-D, PATCH-E, PATCH-F and PATCH-M from this collection first**, then extract the new files. PATCH-R, PATCH-W and PATCH-X are unchanged.
 
-Download here: [My Google Drive](temp)
+Download here: [My Google Drive](https://drive.google.com/file/d/1MGldaWHOBBe_v-Q70NERQHr0HiSQ3USe/view?usp=sharing)
 
 In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` folder and the `Icons` folder into the Interface folder.
 
