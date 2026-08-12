@@ -52,7 +52,7 @@ In the epoch_live (WoW folder) folder, extract the .mpq files into the `Data` fo
 - **PATCH-N.MPQ** — Faithful Upscaled Textures Epoch – 4K Maps *(Vish patch-M)* *(was PATCH-M)*
 - **PATCH-R.MPQ** — New Skyboxes from WotLK HD DBC *(Bset)*  
 - **PATCH-W.MPQ** — Cataclysm Water *(unknown modder)*
-- **PATCH-X.MPQ** — Enhanced Sounds *(Vish patch-X)*
+- **PATCH-X.MPQ** — Enhanced Sounds + Soundtracks from multiple WoW versions *(Vish patch-X)*
 
 ---
 
